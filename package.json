@@ -1,10 +1,12 @@
 {
-    "name": "Templates plugins",
+    "name": "Templates plugin",
     "description": "Custom templates plugin",
     "version": "1.0.0",
     "author": "Ayushi",
     "repository": "https://github.com/skyritzz/monokle-templates__plugin",
     "monoklePlugin": {
+        "id": "com.github.skyritzz.plugin. templates",
+"helpurl": "https://github.com/skyritzz/monokle-templates__plugin",
         "modules": [
              {
                  "type": "template",
